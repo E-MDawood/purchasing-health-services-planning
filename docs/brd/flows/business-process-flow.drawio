@@ -1,0 +1,810 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="Page-1">
+    <mxGraphModel dx="-1527" dy="-283" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="" BpmnName="نظام شراء الخدمات الصحية في الداخل" BPMNLanes="3" tags="background" id="2">
+          <mxCell parent="1" style="vsdxID=86;fillColor=none;gradientColor=none;strokeColor=none;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" vertex="1">
+            <mxGeometry height="1087" width="3006" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3" parent="2" style="vsdxID=87;fillColor=#00b0f0;gradientColor=none;fillOpacity=0;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" vertex="1">
+          <mxGeometry height="1087" width="3006" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="2" style="verticalAlign=middle;align=center;overflow=width;vsdxID=88;rotation=90;fillColor=#31859b;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:rtl;&quot;&gt;&lt;font style=&quot;font-size:16.93px;font-family:Calibri;color:#ffffff;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;نظام شراء الخدمات الصحية في الداخل&lt;/font&gt;&lt;font style=&quot;font-size:16.93px;font-family:Themed;color:#ffffff;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="1087" x="2437" y="518" as="geometry" />
+        </mxCell>
+        <UserObject label="" tags="background" id="5">
+          <mxCell parent="1" style="vsdxID=89;fillColor=#ffffff;gradientColor=none;fillOpacity=0;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9N5bdMClrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo1zxh5z6RO6Q42BWCfc2oJfdAr/AX/IH+BF/rk7hv7MjaZ/L+RirxJ1Gd);strokeColor=#000000;strokeWidth=2;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="1087" width="2955" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" BpmnName="النظام" BpmnPoolElementType="Pool" BpmnPoolId="0" BpmnPoolCategories="0" BpmnPoolDocumentation="0" BpmnPoolName="نظام شراء الخدمات الصحية في الداخل" BPMNPoolLanes="3" BPMNPoolBoundaryVisible="0" BPMNPoolMainPool="0" tags="background" id="6">
+          <mxCell parent="1" style="vsdxID=82;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" vertex="1">
+            <mxGeometry height="468" width="2955" y="279" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="7" parent="6" style="vsdxID=83;fillColor=#31859b;gradientColor=none;fillOpacity=0;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;strokeWidth=2;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" vertex="1">
+          <mxGeometry height="468" width="2955" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="6" style="verticalAlign=middle;align=center;overflow=width;vsdxID=85;rotation=90;fillColor=#31859b;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;strokeWidth=2;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:rtl;&quot;&gt;&lt;font style=&quot;font-size:16.93px;font-family:Calibri;color:#ffffff;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;النظام&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="468" x="2694" y="207" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="مزود الخدمة" BpmnPoolElementType="Pool" BpmnPoolId="0" BpmnPoolCategories="0" BpmnPoolDocumentation="0" BpmnPoolName="نظام شراء الخدمات الصحية في الداخل" BPMNPoolLanes="3" BPMNPoolBoundaryVisible="0" BPMNPoolMainPool="0" tags="background" id="9">
+          <mxCell parent="1" style="vsdxID=106;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" vertex="1">
+            <mxGeometry height="279" width="2955" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="10" parent="9" style="vsdxID=107;fillColor=#31859b;gradientColor=none;fillOpacity=0;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;strokeWidth=2;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" vertex="1">
+          <mxGeometry height="279" width="2955" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="9" style="verticalAlign=middle;align=center;overflow=width;vsdxID=109;rotation=90;fillColor=#31859b;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;strokeWidth=2;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:rtl;&quot;&gt;&lt;font style=&quot;font-size:16.93px;font-family:Calibri;color:#ffffff;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;مزود الخدمة&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="279" x="2789" y="113" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="شركة إدارة المطالبات TPA" BpmnPoolElementType="Pool" BpmnPoolId="0" BpmnPoolCategories="0" BpmnPoolDocumentation="0" BpmnPoolName="نظام شراء الخدمات الصحية في الداخل" BPMNPoolLanes="3" BPMNPoolBoundaryVisible="0" BPMNPoolMainPool="0" tags="background" id="12">
+          <mxCell parent="1" style="vsdxID=111;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=2;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" vertex="1">
+            <mxGeometry height="340" width="2955" y="747" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="13" parent="12" style="vsdxID=112;fillColor=#31859b;gradientColor=none;fillOpacity=0;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;strokeWidth=2;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" vertex="1">
+          <mxGeometry height="340" width="2955" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="12" style="verticalAlign=middle;align=center;overflow=width;vsdxID=114;rotation=90;fillColor=#31859b;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;strokeWidth=2;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:rtl;&quot;&gt;&lt;font style=&quot;font-size:16.93px;font-family:Calibri;color:#ffffff;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;شركة إدارة المطالبات &lt;/font&gt;&lt;font style=&quot;font-size:16.93px;font-family:Themed;color:#ffffff;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;TPA&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="340" x="2758" y="143" as="geometry" />
+        </mxCell>
+        <UserObject label="" tags="background" id="15">
+          <mxCell parent="1" style="vsdxID=90;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyDew0QUooJB/N1eSGM0LFywm2lf23QAxarbRQFna/BuVIfpggasgXNjtfImRAUoAUXvvBq822xHfmkTmdTs9rThpDmWJji7yFWMfEPoZOwHfZpF8A9aCGbno3h/jCYPIJYoPJQ3);strokeColor=#000000;strokeWidth=2;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="1087" width="2902" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="background" id="16">
+          <mxCell parent="1" style="vsdxID=91;fillColor=none;gradientColor=none;strokeColor=none;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" vertex="1">
+            <mxGeometry height="1087" width="2902" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="17" parent="16" style="verticalAlign=middle;align=center;overflow=width;vsdxID=92;fillColor=none;gradientColor=none;fillOpacity=0;strokeColor=none;strokeWidth=2;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="1087" width="2902" as="geometry" />
+        </mxCell>
+        <mxCell id="18" parent="16" style="vsdxID=93;fillColor=#ffffff;gradientColor=none;shape=stencil(rZBLDoAgDERP0z3SI/i5B4kojQgE8Xd7IY3RuHY303lt0gGsF6OCBimWFP2kd+qTAWxASnJGR0pZAbaA9eCjHqNfXc8+qEIWNfutXDh4T5QNKU52lWDfMWrJvdA7/B/+C83i+XMga7mmd/7tJY+4U2wv);strokeColor=#000000;strokeWidth=2;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;connectable=0;" vertex="1">
+          <mxGeometry height="1" width="2955" as="geometry" />
+        </mxCell>
+        <UserObject label="" tags="Flowchart" id="19">
+          <mxCell parent="1" style="vsdxID=125;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="31" width="31" x="2846" y="71" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="20" parent="19" style="vsdxID=126;fillColor=#ffffff;gradientColor=none;shape=stencil(vVHLDsIgEPwajiQI6RfU+h8bu22JCGRB2/69kG1iazx58DazM/vIjjBtmiCi0CplCjecbZ8nYc5Ca+snJJsLEqYTph0C4Ujh4XvmEaqzont41gkL96naodXKrGF6YSfQtUi0OXXDVlqPfJNP6usotUhYbJIUMmQb/GGrAxpRljVycDBuc1hKM2LclX8/7H9nFfB+82Cd45T2+mcspcSRmu4F);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="31" width="31" as="geometry" />
+        </mxCell>
+        <mxCell id="21" parent="19" style="text;vsdxID=125;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:rtl;&quot;&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="19.19" width="5.64" x="13.05" y="31" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="إنشاء طلب رئيسي للموافقة الطبية بحالة &quot;نشط&quot; وطلب فرعي بحالة &quot;تحت الدراسة – بإنتظار مراجعة شركة إدارة المطالبات&quot;" tags="Flowchart" id="22">
+          <mxCell parent="1" style="vsdxID=1863;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="2098" y="367" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="23" parent="22" style="vsdxID=1864;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="27" parent="22" style="verticalAlign=middle;align=center;overflow=width;vsdxID=1876;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="29" parent="22" style="text;vsdxID=1863;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;إنشاء طلب رئيسي للموافقة الطبية بحالة &amp;quot;نشط&amp;quot; وطلب فرعي بحالة &amp;quot;تحت الدراسة – بإنتظار مراجعة شركة إدارة المطالبات&amp;quot;&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="الاطلاع على الطلب" tags="Flowchart" id="30">
+          <mxCell parent="1" style="vsdxID=1887;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="2073" y="931" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="31" parent="30" style="vsdxID=1888;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="35" parent="30" style="verticalAlign=middle;align=center;overflow=width;vsdxID=1900;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="37" parent="30" style="text;vsdxID=1887;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;الاطلاع على الطلب&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="قرار شركة إدارة المطالبات" tags="Flowchart" id="38">
+          <mxCell parent="1" style="vsdxID=1910;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="41" width="55" x="1558" y="948" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="39" parent="38" style="vsdxID=1911;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBNDoUgDIRP0z3SeAKf3sNElEYEg/h3+wdpjIaFC3cz9OukDGC16HZWIMUSvBvVTl3QgD+QkqxWnkJUgDVg1TuvBu9W27Gf20QmNbktJRy8V4q0IsXJthDsG2YN2Qd7DS+4fGGz3Bfyc2Z2axT3J3syhjt6zvNS4hMXivUf);strokeColor=#000000;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="41" width="55" as="geometry" />
+        </mxCell>
+        <mxCell id="43" parent="38" style="text;vsdxID=1910;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:rtl;&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;قرار شركة إدارة المطالبات&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.15" width="84.66" x="-13.2" y="26.52" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="تنبيه مزود الخدمة أن الموافقة تم الرد عليها" tags="Flowchart" id="44">
+          <mxCell parent="1" style="vsdxID=1975;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="1535" y="367" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="45" parent="44" style="vsdxID=1976;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="49" parent="44" style="verticalAlign=middle;align=center;overflow=width;vsdxID=1988;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="51" parent="44" style="text;vsdxID=1975;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;تنبيه مزود الخدمة أن الموافقة تم الرد عليها&lt;/font&gt;&lt;font style=&quot;font-size:12.7px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="الرد على شركة إدارة المطالبات " tags="Flowchart" id="52">
+          <mxCell parent="1" style="vsdxID=1999;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="1792" y="57" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="53" parent="52" style="vsdxID=2000;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="57" parent="52" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2012;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="59" parent="52" style="text;vsdxID=1999;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;الرد على شركة إدارة المطالبات &lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="تنبيه مزود الخدمة أن الموافقة تم قبولها وتحديث حالة الطلب إلى &quot;مقبول&quot; أو &quot;مقبول جزئيا&quot; أو &quot;مرفوض&quot;" tags="Flowchart" id="60">
+          <mxCell parent="1" style="vsdxID=2066;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="1159" y="367" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="61" parent="60" style="vsdxID=2067;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="65" parent="60" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2079;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="67" parent="60" style="text;vsdxID=2066;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;تنبيه مزود الخدمة أن الموافقة تم قبولها وتحديث حالة الطلب إلى &amp;quot;مقبول&amp;quot; أو &amp;quot;مقبول جزئيا&amp;quot; أو &amp;quot;مرفوض&amp;quot;&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="نوع الدخول" tags="Flowchart" id="68">
+          <mxCell parent="1" style="vsdxID=2090;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="41" width="55" x="2604" y="66" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="69" parent="68" style="vsdxID=2091;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBNDoUgDIRP0z3SeAKf3sNElEYEg/h3+wdpjIaFC3cz9OukDGC16HZWIMUSvBvVTl3QgD+QkqxWnkJUgDVg1TuvBu9W27Gf20QmNbktJRy8V4q0IsXJthDsG2YN2Qd7DS+4fGGz3Bfyc2Z2axT3J3syhjt6zvNS4hMXivUf);strokeColor=#000000;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="41" width="55" as="geometry" />
+        </mxCell>
+        <mxCell id="73" parent="68" style="text;vsdxID=2090;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:rtl;&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;نوع الدخول&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.15" width="84.66" x="-14.6" y="-49.18" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="هوية المستفيد" tags="Flowchart" id="74">
+          <mxCell parent="1" style="vsdxID=2154;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="41" width="55" x="2604" y="384" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="75" parent="74" style="vsdxID=2155;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBNDoUgDIRP0z3SeAKf3sNElEYEg/h3+wdpjIaFC3cz9OukDGC16HZWIMUSvBvVTl3QgD+QkqxWnkJUgDVg1TuvBu9W27Gf20QmNbktJRy8V4q0IsXJthDsG2YN2Qd7DS+4fGGz3Bfyc2Z2axT3J3syhjt6zvNS4hMXivUf);strokeColor=#000000;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="41" width="55" as="geometry" />
+        </mxCell>
+        <mxCell id="79" parent="74" style="text;vsdxID=2154;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:rtl;&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;هوية المستفيد&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.15" width="84.66" x="45.4" y="-3.88" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="التكامل مع يقين لاسترجاع بيانات المستفيد" BpmnActivityType="Sub-Process" BpmnIsCollapsed="1" tags="Flowchart" id="80">
+          <mxCell parent="1" style="vsdxID=2170;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="2581" y="508" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="81" parent="80" style="vsdxID=2171;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="83" parent="80" style="vsdxID=2176;fillColor=none;gradientColor=none;strokeColor=none;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="16" width="16" x="42" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="84" parent="83" style="vsdxID=2177;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjewwQUogJB/N1eSGM0LFy4m2lf23QA60V3XgFnSwxuVLuRUQM2wLmxWgUTkwIUgHXvghqCW60k77tMZjW7LW84aI7lCc5OchUj3xI6GftC7+Yv+AP9CRbnk3h+pHjevTKPVKIsUVw=);points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="16" width="16" as="geometry" />
+        </mxCell>
+        <mxCell id="85" parent="83" style="vsdxID=2178;fillColor=#000000;gradientColor=none;shape=stencil(nZLdDsIgDIWfpvdINT7A3N5jyZgQERaGOt9eSDVuJCMbd6f06w/NAaxG2Q4COBu9szfxUp2XgBfgXBkpnPJBAdaAVW+duDr7MB3FQxvJqO72GTtMVHfEWMLZexE2hGplZigrJE/ndTIZvwM9MLbOfvuUsLkVfn1K2Ny9khV2oJl/JffaTi7HB/H3Tq+0JuvN86nXwhP5FOsP);points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="8" width="8" x="4" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="87" parent="80" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2183;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="89" parent="80" style="text;vsdxID=2170;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;التكامل مع يقين لاسترجاع بيانات المستفيد&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="تقديم الرعاية الصحية" BpmnActivityType="Sub-Process" BpmnIsCollapsed="1" tags="Flowchart" id="90">
+          <mxCell parent="1" style="vsdxID=2196;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="1159" y="57" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="91" parent="90" style="vsdxID=2197;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="93" parent="90" style="vsdxID=2202;fillColor=none;gradientColor=none;strokeColor=none;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="16" width="16" x="42" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="94" parent="93" style="vsdxID=2203;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjewwQUogJB/N1eSGM0LFy4m2lf23QA60V3XgFnSwxuVLuRUQM2wLmxWgUTkwIUgHXvghqCW60k77tMZjW7LW84aI7lCc5OchUj3xI6GftC7+Yv+AP9CRbnk3h+pHjevTKPVKIsUVw=);points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="16" width="16" as="geometry" />
+        </mxCell>
+        <mxCell id="95" parent="93" style="vsdxID=2204;fillColor=#000000;gradientColor=none;shape=stencil(nZLdDsIgDIWfpvdINT7A3N5jyZgQERaGOt9eSDVuJCMbd6f06w/NAaxG2Q4COBu9szfxUp2XgBfgXBkpnPJBAdaAVW+duDr7MB3FQxvJqO72GTtMVHfEWMLZexE2hGplZigrJE/ndTIZvwM9MLbOfvuUsLkVfn1K2Ny9khV2oJl/JffaTi7HB/H3Tq+0JuvN86nXwhP5FOsP);points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="8" width="8" x="4" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="97" parent="90" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2209;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="99" parent="90" style="text;vsdxID=2196;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;تقديم الرعاية الصحية&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="هل يتطلب إضافة خدمات اثناء تقديم الرعاية الصحية؟" tags="Flowchart" id="100">
+          <mxCell parent="1" style="vsdxID=2245;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="41" width="55" x="964" y="74" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="101" parent="100" style="vsdxID=2246;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBNDoUgDIRP0z3SeAKf3sNElEYEg/h3+wdpjIaFC3cz9OukDGC16HZWIMUSvBvVTl3QgD+QkqxWnkJUgDVg1TuvBu9W27Gf20QmNbktJRy8V4q0IsXJthDsG2YN2Qd7DS+4fGGz3Bfyc2Z2axT3J3syhjt6zvNS4hMXivUf);strokeColor=#000000;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="41" width="55" as="geometry" />
+        </mxCell>
+        <mxCell id="105" parent="100" style="text;vsdxID=2245;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:rtl;&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;هل يتطلب إضافة خدمات اثناء تقديم الرعاية الصحية؟&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.15" width="84.66" x="-11.2" y="-60.28" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="تقديم طلب فرعي جديد وتقديم لشركة إدارة المطالبات للمراجعة" tags="Flowchart" id="106">
+          <mxCell parent="1" style="vsdxID=2261;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="941" y="169" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="107" parent="106" style="vsdxID=2262;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="111" parent="106" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2274;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="113" parent="106" style="text;vsdxID=2261;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;تقديم طلب فرعي جديد وتقديم لشركة إدارة المطالبات للمراجعة&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="تعبئة معلومات الاحالة" tags="Flowchart" id="114">
+          <mxCell parent="1" style="vsdxID=2500;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="2309" y="149" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="115" parent="114" style="vsdxID=2501;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="119" parent="114" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2513;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="121" parent="114" style="text;vsdxID=2500;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;تعبئة معلومات الاحالة&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-1" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="انشاء الطلب الفرعي بحالة &quot;تحت الدراسة – بإنتظار مراجعة شركة إدارة المطالبات&quot; وتقديمة لشركة إدارة المطالبات" tags="Flowchart" id="122">
+          <mxCell parent="1" style="vsdxID=2528;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="941" y="367" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="123" parent="122" style="vsdxID=2529;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="127" parent="122" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2541;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="129" parent="122" style="text;vsdxID=2528;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;انشاء الطلب الفرعي بحالة &amp;quot;تحت الدراسة – بإنتظار مراجعة شركة إدارة المطالبات&amp;quot; وتقديمة لشركة إدارة المطالبات&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="رفع طلب موافقة طبية " tags="Flowchart" id="130">
+          <mxCell parent="1" style="vsdxID=2556;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="2712" y="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="131" parent="130" style="vsdxID=2557;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="135" parent="130" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2569;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="137" parent="130" style="text;vsdxID=2556;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;رفع طلب موافقة طبية &lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="التكامل مع محرك الاهلية وإدراج أهلية المستفيد في طلب الموافقة" BpmnActivityType="Sub-Process" BpmnIsCollapsed="1" tags="Flowchart" id="138">
+          <mxCell parent="1" style="vsdxID=2597;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="2308" y="367" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="139" parent="138" style="vsdxID=2598;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="141" parent="138" style="vsdxID=2603;fillColor=none;gradientColor=none;strokeColor=none;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="16" width="16" x="42" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="142" parent="141" style="vsdxID=2604;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjewwQUogJB/N1eSGM0LFy4m2lf23QA60V3XgFnSwxuVLuRUQM2wLmxWgUTkwIUgHXvghqCW60k77tMZjW7LW84aI7lCc5OchUj3xI6GftC7+Yv+AP9CRbnk3h+pHjevTKPVKIsUVw=);points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="16" width="16" as="geometry" />
+        </mxCell>
+        <mxCell id="143" parent="141" style="vsdxID=2605;fillColor=#000000;gradientColor=none;shape=stencil(nZLdDsIgDIWfpvdINT7A3N5jyZgQERaGOt9eSDVuJCMbd6f06w/NAaxG2Q4COBu9szfxUp2XgBfgXBkpnPJBAdaAVW+duDr7MB3FQxvJqO72GTtMVHfEWMLZexE2hGplZigrJE/ndTIZvwM9MLbOfvuUsLkVfn1K2Ny9khV2oJl/JffaTi7HB/H3Tq+0JuvN86nXwhP5FOsP);points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="8" width="8" x="4" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="145" parent="138" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2610;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="147" parent="138" style="text;vsdxID=2597;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;التكامل مع محرك الاهلية وإدراج أهلية المستفيد في طلب الموافقة&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" x="0.27" y="-0.63" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="اكتمال الشهر الحالي" BpmnTriggerOrResult="Timer" BpmnTriggerOrResult_Start="Timer" BpmnTriggerOrResult_Intermediate="Timer" BpmnTriggerOrResult_End_Throwing="Timer" BpmnTriggerOrResult_End="Timer" BpmnTriggerOrResult_Start_NonInterrupting="Timer" BpmnTriggerOrResult_Intermediate_NonInterrupting="Timer" tags="Flowchart" id="148">
+          <mxCell parent="1" style="vsdxID=2950;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="31" width="31" x="636" y="79" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="149" parent="148" style="vsdxID=2951;fillColor=#FFFFFF;gradientColor=none;shape=stencil(vVHLDsIgEPwajiQI6RfU+h8bu22JCGRB2/69kG1iazx58DazM/vIjjBtmiCi0CplCjecbZ8nYc5Ca+snJJsLEqYTph0C4Ujh4XvmEaqzont41gkL96naodXKrGF6YSfQtUi0OXXDVlqPfJNP6usotUhYbJIUMmQb/GGrAxpRljVycDBuc1hKM2LclX8/7H9nFfB+82Cd45T2+mcspcSRmu4F);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="31" width="31" as="geometry" />
+        </mxCell>
+        <mxCell id="150" parent="148" style="vsdxID=2954;fillColor=#ffffff;gradientColor=none;shape=stencil(vVHLDsIgEPwajiQI6RfU+h8bu22JCGRB2/69kG1iazx58DazM/vIjjBtmiCi0CplCjecbZ8nYc5Ca+snJJsLEqYTph0C4Ujh4XvmEaqzont41gkL96naodXKrGF6YSfQtUi0OXXDVlqPfJNP6usotUhYbJIUMmQb/GGrAxpRljVycDBuc1hKM2LclX8/7H9nFfB+82Cd45T2+mcspcSRmu4F);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="25" width="25" x="3" y="3" as="geometry" />
+        </mxCell>
+        <mxCell id="151" parent="148" style="vsdxID=2957;fillColor=#FFFFFF;gradientColor=none;shape=stencil(vVfbctowEP0aP7Ijaa3bc5r+hycx4CnFjHEa8vdZj4GyEqztMtM3y9oj7eWclVTgy3FbHerCqGPftb/qz+a93xb4ozCm2W/rrunpq8DXAl/WbVdvuvZj/z6OD9VgOXz9bv8MK5xGnBoQRn2NIzsOf46WVfdGU93Z0tjRtPvi4/O0VneXUqdVdWqOq67tq75p92zXXdVt6hVts1rvqs15nXHq+FnXh5vf/+7Y/3OLZ7aMUAa2d+khhFvArtnfAgLEBBDBGwEQwWYAcYcMYBXY8jHAarBmCcBrwPgcgLIUteCSgUsx5gGcAs8B2kGQdgigQwrQAmBGpTk1PILjgGguib6fJQvRcYAGyV5Bicw+aHAoJIlithxgIEp1mw4hkUNIAZeO8Yh5qJ8xDw6iFcWWuLMYkDjEwzUllJzXVDH3eHnjwPs0n1EoMRpwXJpUMR8FgAIsU06UXnBpMgQesksT5A0EgXMkW748sVySmc506SIYIUWDzrlqnBNJPR2BdHgODBHyn5xDRFjJdZKXfg6wyJ3MmAdKmUSeGdTi0aQ9cDYb6pFSO0m5YBDCkkrRHy1TYSoAHjGpxfGGSPRzgoBJj5G3XMoBCiHkir8GNVOO16Q90vtUBJMdGkELAr7To5cChJaeu7PIOHOFBxsQDC8XMdQI9Q0lWJ5OYpB0s4mYEmKCozHr6BMimBFD0qH9pf3dcFTJ9wjDXSIOodTTs4tKgEW3CPJH0MCMAJIyh+y2KLfFHDDVeNN3zzLzxe5MdGoikeIAKokVTlWiKfIS+yutHglBJccw3XalGOhewjlBtNLCxWNGDPTx90W7bna78UF8O5++gOnX+HrG128=);strokeColor=#000000;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="17" width="17" x="7" y="7" as="geometry" />
+        </mxCell>
+        <mxCell id="152" parent="148" style="text;vsdxID=2950;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;اكتمال الشهر الحالي&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="19.2" width="80.21" x="-24.23" y="31" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="تحديث حالة الطلب الرئيسي" tags="Flowchart" id="153">
+          <mxCell parent="1" style="vsdxID=2982;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="348" y="369" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="154" parent="153" style="vsdxID=2983;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="158" parent="153" style="verticalAlign=middle;align=center;overflow=width;vsdxID=2995;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="160" parent="153" style="text;vsdxID=2982;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;تحديث حالة الطلب الرئيسي&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="إكمال 90 يوم بدون رفع مطالبة مالية ، او رفع مطالبة مالية " BpmnGatewayType="Inclusive" tags="Flowchart" id="161">
+          <mxCell parent="1" style="vsdxID=3077;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="53" width="70" x="364" y="527" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="162" parent="161" style="vsdxID=3078;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBNDoUgDIRP0z3SeAKf3sNElEYEg/h3+wdpjIaFC3cz9OukDGC16HZWIMUSvBvVTl3QgD+QkqxWnkJUgDVg1TuvBu9W27Gf20QmNbktJRy8V4q0IsXJthDsG2YN2Qd7DS+4fGGz3Bfyc2Z2axT3J3syhjt6zvNS4hMXivUf);strokeColor=#000000;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="53" width="70" as="geometry" />
+        </mxCell>
+        <mxCell id="164" parent="161" style="vsdxID=3083;fillColor=#000000;gradientColor=none;shape=stencil(xVPbDoIwDP2aPUJ2EcRnxf9YZMAiMtJNgb93pCQyowkxUd96es7a02YlYm9r2SnCqXVgzqrXhauJOBDOdVsr0M5HRORE7EsDqgJzbQvEnZyUU3Qxt6nCgO/o9ILTEVGC8IhKCSdPwazkCUphDPFMM/qyFB0iOWgbgXHSadMGXRsJlYp8m6hsZDXXQcr2SnWL9OfGfmcr3CxjMd+s3i7bxSIL5/CpNBwly+Jt+qctrzL4duavGPTB41uXumnwKpb88xn4FJ6QyO8=);strokeColor=#000000;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="31" width="33" x="18" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="167" parent="161" style="text;vsdxID=3077;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=top;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;إكمال 90 يوم بدون رفع مطالبة مالية ، او رفع مطالبة مالية &lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.15" width="84.66" x="-6.93" y="53" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="تحديث حالة الطلب الى &quot;ملغى&quot;" tags="Flowchart" id="168">
+          <mxCell parent="1" style="vsdxID=3107;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="532" y="515" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="169" parent="168" style="vsdxID=3108;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="173" parent="168" style="verticalAlign=middle;align=center;overflow=width;vsdxID=3120;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="175" parent="168" style="text;vsdxID=3107;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;تحديث حالة الطلب الى &amp;quot;ملغى&amp;quot;&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="تحديث حالة الطلب الى &quot;تم معالجة المطالبة المالية من شركة إدارة المطالبات&quot;" tags="Flowchart" id="176">
+          <mxCell parent="1" style="vsdxID=3131;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="81" y="515" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="177" parent="176" style="vsdxID=3132;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="181" parent="176" style="verticalAlign=middle;align=center;overflow=width;vsdxID=3144;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="183" parent="176" style="text;vsdxID=3131;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;تحديث حالة الطلب الى &amp;quot;تم معالجة المطالبة المالية من شركة إدارة المطالبات&amp;quot;&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" tags="Flowchart" id="184">
+          <mxCell parent="1" style="vsdxID=3170;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="31" width="31" x="380" y="661" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="185" parent="184" style="vsdxID=3171;fillColor=#000000;gradientColor=none;shape=stencil(vVHLDsIgEPwajiQI6RfU+h8bu22JCGRB2/69kG1iazx58DazM/vIjjBtmiCi0CplCjecbZ8nYc5Ca+snJJsLEqYTph0C4Ujh4XvmEaqzont41gkL96naodXKrGF6YSfQtUi0OXXDVlqPfJNP6usotUhYbJIUMmQb/GGrAxpRljVycDBuc1hKM2LclX8/7H9nFfB+82Cd45T2+mcspcSRmu4F);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="31" width="31" as="geometry" />
+        </mxCell>
+        <mxCell id="186" parent="184" style="vsdxID=3174;fillColor=#ffffff;gradientColor=none;shape=stencil(vVHLDsIgEPwajiQI6RfU+h8bu22JCGRB2/69kG1iazx58DazM/vIjjBtmiCi0CplCjecbZ8nYc5Ca+snJJsLEqYTph0C4Ujh4XvmEaqzont41gkL96naodXKrGF6YSfQtUi0OXXDVlqPfJNP6usotUhYbJIUMmQb/GGrAxpRljVycDBuc1hKM2LclX8/7H9nFfB+82Cd45T2+mcspcSRmu4F);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="25" width="25" x="3" y="3" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="7 ايام" BpmnTriggerOrResult="Timer" BpmnTriggerOrResult_Start="Timer" BpmnTriggerOrResult_Intermediate="Timer" BpmnTriggerOrResult_End_Throwing="Timer" BpmnTriggerOrResult_End="Timer" BpmnTriggerOrResult_Start_NonInterrupting="Timer" BpmnTriggerOrResult_Intermediate_NonInterrupting="Timer" tags="Flowchart" id="187">
+          <mxCell parent="1" style="vsdxID=3185;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="31" width="31" x="1876" y="101" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="188" parent="187" style="vsdxID=3186;fillColor=#FFFFFF;gradientColor=none;shape=stencil(vVHLDsIgEPwajiQI6RfU+h8bu22JCGRB2/69kG1iazx58DazM/vIjjBtmiCi0CplCjecbZ8nYc5Ca+snJJsLEqYTph0C4Ujh4XvmEaqzont41gkL96naodXKrGF6YSfQtUi0OXXDVlqPfJNP6usotUhYbJIUMmQb/GGrAxpRljVycDBuc1hKM2LclX8/7H9nFfB+82Cd45T2+mcspcSRmu4F);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="31" width="31" as="geometry" />
+        </mxCell>
+        <mxCell id="189" parent="187" style="vsdxID=3189;fillColor=#ffffff;gradientColor=none;shape=stencil(vVHLDsIgEPwajiQI6RfU+h8bu22JCGRB2/69kG1iazx58DazM/vIjjBtmiCi0CplCjecbZ8nYc5Ca+snJJsLEqYTph0C4Ujh4XvmEaqzont41gkL96naodXKrGF6YSfQtUi0OXXDVlqPfJNP6usotUhYbJIUMmQb/GGrAxpRljVycDBuc1hKM2LclX8/7H9nFfB+82Cd45T2+mcspcSRmu4F);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="25" width="25" x="3" y="3" as="geometry" />
+        </mxCell>
+        <mxCell id="190" parent="187" style="vsdxID=3192;fillColor=#FFFFFF;gradientColor=none;shape=stencil(vVfbctowEP0aP7Ijaa3bc5r+hycx4CnFjHEa8vdZj4GyEqztMtM3y9oj7eWclVTgy3FbHerCqGPftb/qz+a93xb4ozCm2W/rrunpq8DXAl/WbVdvuvZj/z6OD9VgOXz9bv8MK5xGnBoQRn2NIzsOf46WVfdGU93Z0tjRtPvi4/O0VneXUqdVdWqOq67tq75p92zXXdVt6hVts1rvqs15nXHq+FnXh5vf/+7Y/3OLZ7aMUAa2d+khhFvArtnfAgLEBBDBGwEQwWYAcYcMYBXY8jHAarBmCcBrwPgcgLIUteCSgUsx5gGcAs8B2kGQdgigQwrQAmBGpTk1PILjgGguib6fJQvRcYAGyV5Bicw+aHAoJIlithxgIEp1mw4hkUNIAZeO8Yh5qJ8xDw6iFcWWuLMYkDjEwzUllJzXVDH3eHnjwPs0n1EoMRpwXJpUMR8FgAIsU06UXnBpMgQesksT5A0EgXMkW748sVySmc506SIYIUWDzrlqnBNJPR2BdHgODBHyn5xDRFjJdZKXfg6wyJ3MmAdKmUSeGdTi0aQ9cDYb6pFSO0m5YBDCkkrRHy1TYSoAHjGpxfGGSPRzgoBJj5G3XMoBCiHkir8GNVOO16Q90vtUBJMdGkELAr7To5cChJaeu7PIOHOFBxsQDC8XMdQI9Q0lWJ5OYpB0s4mYEmKCozHr6BMimBFD0qH9pf3dcFTJ9wjDXSIOodTTs4tKgEW3CPJH0MCMAJIyh+y2KLfFHDDVeNN3zzLzxe5MdGoikeIAKokVTlWiKfIS+yutHglBJccw3XalGOhewjlBtNLCxWNGDPTx90W7bna78UF8O5++gOnX+HrG128=);strokeColor=#000000;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="17" width="17" x="7" y="7" as="geometry" />
+        </mxCell>
+        <mxCell id="191" parent="187" style="text;vsdxID=3185;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;7 ايام&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="19.2" width="29.7" x="1.03" y="31" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="تحديث حالة الطلب الى &quot;ملغى&quot;" tags="Flowchart" id="192">
+          <mxCell parent="1" style="vsdxID=3198;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="1901" y="367" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="193" parent="192" style="vsdxID=3199;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="197" parent="192" style="verticalAlign=middle;align=center;overflow=width;vsdxID=3211;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="199" parent="192" style="text;vsdxID=3198;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;تحديث حالة الطلب الى &amp;quot;ملغى&amp;quot;&lt;/font&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" tags="Flowchart" id="200">
+          <mxCell parent="1" style="vsdxID=3222;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="31" width="31" x="1936" y="480" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="201" parent="200" style="vsdxID=3223;fillColor=#000000;gradientColor=none;shape=stencil(vVHLDsIgEPwajiQI6RfU+h8bu22JCGRB2/69kG1iazx58DazM/vIjjBtmiCi0CplCjecbZ8nYc5Ca+snJJsLEqYTph0C4Ujh4XvmEaqzont41gkL96naodXKrGF6YSfQtUi0OXXDVlqPfJNP6usotUhYbJIUMmQb/GGrAxpRljVycDBuc1hKM2LclX8/7H9nFfB+82Cd45T2+mcspcSRmu4F);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="31" width="31" as="geometry" />
+        </mxCell>
+        <mxCell id="202" parent="200" style="vsdxID=3226;fillColor=#ffffff;gradientColor=none;shape=stencil(vVHLDsIgEPwajiQI6RfU+h8bu22JCGRB2/69kG1iazx58DazM/vIjjBtmiCi0CplCjecbZ8nYc5Ca+snJJsLEqYTph0C4Ujh4XvmEaqzont41gkL96naodXKrGF6YSfQtUi0OXXDVlqPfJNP6usotUhYbJIUMmQb/GGrAxpRljVycDBuc1hKM2LclX8/7H9nFfB+82Cd45T2+mcspcSRmu4F);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0.5,0],[0.5,0,0],[0,0.5,0],[0.5,1,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="25" width="25" x="3" y="3" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="إلغاء أي طلب فرعي لازال تحت الدراسة" tags="Flowchart" id="203">
+          <mxCell parent="1" style="vsdxID=3236;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="76" width="101" x="81" y="639" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="204" parent="203" style="vsdxID=3237;fillColor=#ffffff;gradientColor=none;shape=stencil(nZCxDsIwDES/xitKk6V7KT/AF0TUEIuQVGmgwNeT9kCqOjB0s++efdKRaQZneyathpzilUfpsiOzJ60lOE6Sy0SmJdOcY+JLivfQYe9tIbWaFe5wU020VjadjvJmaPWu0jV0HN7iYwp8wlawXt8HCvsBqJewQH/mJvgPuhFcxZdhrgRlifdodOmvKywS6jftBw==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" vertex="1">
+          <mxGeometry height="76" width="101" as="geometry" />
+        </mxCell>
+        <mxCell id="208" parent="203" style="verticalAlign=middle;align=center;overflow=width;vsdxID=3249;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.75,0],[0,0.5,0],[0,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="14" width="14" x="5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="210" parent="203" style="text;vsdxID=3236;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;إلغاء أي طلب فرعي لازال تحت الدراسة&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="76.2" width="101.6" y="-0.2" as="geometry" />
+        </mxCell>
+        <UserObject label="" tags="Callout" id="211">
+          <mxCell parent="1" style="vsdxID=2675;fillColor=none;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfpbGeuSlIl5FBJUTE0MAAzHeDKM/JzENSDpMkSzEepZjOQFEMZCA8APE7shy6Z4FCkIAydgUA);strokeColor=#000000;spacingLeft=1;spacingRight=1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="82" width="101" x="1428" y="455" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="212" edge="1" parent="211" style="vsdxID=2676;edgeStyle=none;dashed=1;dashPattern=1.00 4.00;startArrow=none;endArrow=none;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;rounded=1;align=center;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;/p&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4" y="-1" as="offset" />
+            <Array as="points" />
+            <mxPoint x="101" y="40" as="sourcePoint" />
+            <mxPoint x="113" y="-13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="213" parent="211" style="text;vsdxID=2675;fillColor=none;gradientColor=none;strokeColor=none;spacingLeft=1;spacingRight=1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=right;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:right;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;حالة الطلب الرئيسي للموافقة: نشط&lt;br/&gt; حالة الطلب الفرعي: تحت الدراسة – بإنتظار رد مزود الخدمة&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="79.03" width="101.6" y="1.21" as="geometry" />
+        </mxCell>
+        <UserObject label="" tags="Callout" id="214">
+          <mxCell parent="1" style="vsdxID=2677;fillColor=none;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfoYEBSI+RQSWEb6ZnZg4WcIOozsnMw6PaALdSMhWi2w9kIJwO8TWyHLo3gUKQIDJ2BQA=);strokeColor=#000000;spacingLeft=1;spacingRight=1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="95" width="101" x="2197" y="465" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="215" edge="1" parent="214" style="vsdxID=2678;edgeStyle=none;dashed=1;dashPattern=1.00 4.00;startArrow=none;endArrow=none;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;rounded=1;align=center;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;/p&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points" />
+            <mxPoint x="50" y="-1" as="sourcePoint" />
+            <mxPoint x="-13" y="-23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="216" parent="214" style="text;vsdxID=2677;fillColor=none;gradientColor=none;strokeColor=none;spacingLeft=1;spacingRight=1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;حالة الطلب الرئيسي للموافقة: نشط&lt;br/&gt;حالة الطلب الفرعي للخدمات:&lt;/font&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;تحت الدراسة – بإنتظار مراجعة شركة إدارة المطالبات&lt;/font&gt;&lt;font style=&quot;font-size:11.29px;font-family:Themed;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="92.57" width="101.6" y="1.09" as="geometry" />
+        </mxCell>
+        <UserObject label="" tags="Callout" id="217">
+          <mxCell parent="1" style="vsdxID=2752;fillColor=none;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfoYEBSI+RQSWEb6ZnZg4WcIOozsnMw6PaALdSMhWi2w9kIJwO8TWyHLo3gUKQIDJ2BQA=);strokeColor=#000000;spacingLeft=1;spacingRight=1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="95" width="101" x="1058" y="465" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="218" edge="1" parent="217" style="vsdxID=2753;edgeStyle=none;dashed=1;dashPattern=1.00 4.00;startArrow=none;endArrow=none;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;rounded=1;align=center;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;/p&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+            <Array as="points" />
+            <mxPoint x="50" y="-1" as="sourcePoint" />
+            <mxPoint x="116" y="-23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="219" parent="217" style="text;vsdxID=2752;fillColor=none;gradientColor=none;strokeColor=none;spacingLeft=1;spacingRight=1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;حالة الطلب الرئيسي للموافقة: نشط&lt;br/&gt; حالة الطلب الفرعي للخدمات: مقبول أو مقبول جزئيا أو مرفوض&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="92.57" width="101.6" y="1.09" as="geometry" />
+        </mxCell>
+        <UserObject label="" tags="Callout" id="220">
+          <mxCell parent="1" style="vsdxID=2754;fillColor=none;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfpbGeuSlIl5FBJUTE0MAAzHeDKM/JzENSDpMkSzEepZjOQFEMZCA8APE7shy6Z4FCkIAydgUA);strokeColor=#000000;spacingLeft=1;spacingRight=1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="107" width="101" x="830" y="436" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="221" edge="1" parent="220" style="vsdxID=2755;edgeStyle=none;dashed=1;dashPattern=1.00 4.00;startArrow=none;endArrow=none;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;rounded=1;align=center;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;/p&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4" y="-1" as="offset" />
+            <Array as="points" />
+            <mxPoint x="101" y="53" as="sourcePoint" />
+            <mxPoint x="112" y="5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="222" parent="220" style="text;vsdxID=2754;fillColor=none;gradientColor=none;strokeColor=none;spacingLeft=1;spacingRight=1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=right;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:right;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;حالة الطلب الرئيسي للموافقة: نشط&lt;br/&gt; حالة الطلب الفرعي الجديد للخدمات:&lt;/font&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;تحت الدراسة – بإنتظار مراجعة شركة إدارة المطالبات&lt;/font&gt;&lt;font style=&quot;font-size:11.29px;font-family:Themed;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="106.12" width="101.6" y="-0.04" as="geometry" />
+        </mxCell>
+        <UserObject label="" BpmnName="حالة الطلب الرئيسي للموافقة: بإنتظار رفع المطالبة المالية" BpmnText="حالة الطلب الرئيسي للموافقة: بإنتظار رفع المطالبة المالية" BpmnCategoryRef="حالة الطلب الرئيسي للموافقة: بإنتظار رفع المطالبة المالية" tags="Callout" id="223">
+          <mxCell parent="1" style="vsdxID=3075;fillColor=none;gradientColor=none;shape=stencil(UzV2Ls5ILEhVNTIoLinKz04tz0wpyVA1dlE1MsrMy0gtyiwBslSNXVWNndPyi1LTi/JL81Ig/IJEkEoQKze/DGRCBUSfpamepTFIl5FBJUTE0MAAzHeDKM/JzENSDpMkSzEepZjOQFEMZCA8APE7shy6Z4FCkIAydgUA);strokeColor=#000000;spacingLeft=1;spacingRight=1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="44" width="156" x="152" y="414" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="224" edge="1" parent="223" style="vsdxID=3076;edgeStyle=none;dashed=1;dashPattern=1.00 4.00;startArrow=none;endArrow=none;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;rounded=1;align=center;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;/p&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+            <Array as="points" />
+            <mxPoint x="156" y="21" as="sourcePoint" />
+            <mxPoint x="196" y="1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="225" parent="223" style="text;vsdxID=3075;fillColor=none;gradientColor=none;strokeColor=none;spacingLeft=1;spacingRight=1;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=right;overflow=width;;html=1;" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:right;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;حالة الطلب الرئيسي للموافقة: بإنتظار رفع المطالبة المالية&lt;br/&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="38.39" width="156" y="2.58" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="226">
+          <mxCell edge="1" parent="1" source="187" style="vsdxID=3221;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=1.032258064516129;exitY=0.5161290322580645;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504950495049505;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="192">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint y="1" as="offset" />
+              <Array as="points">
+                <mxPoint x="1952.13" y="117" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;90 يوم&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" tags="Connector" id="227">
+          <mxCell edge="1" parent="1" source="161" style="vsdxID=3106;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=1.0142857142857142;exitY=0.49056603773584906;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="168">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-1" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="228">
+          <mxCell edge="1" parent="1" source="130" style="vsdxID=2580;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.018181818181818;entryY=0.5121951219512195;entryDx=0;entryDy=0;entryPerimeter=0;" target="68">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-1" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="229">
+          <mxCell edge="1" parent="1" source="106" style="vsdxID=2551;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.504950495049505;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504950495049505;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="122">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="10" y="-1" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;نعم&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" tags="Connector" id="230">
+          <mxCell edge="1" parent="1" source="100" style="vsdxID=2284;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.509090909090909;exitY=1.024390243902439;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504950495049505;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="106">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="10" y="-1" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;دخول مباشرة&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" tags="Connector" id="231">
+          <mxCell edge="1" parent="1" source="68" style="vsdxID=2130;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.509090909090909;exitY=1.024390243902439;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.509090909090909;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="74">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-10" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="232">
+          <mxCell edge="1" parent="1" source="19" style="vsdxID=161;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0;exitY=0.5161290322580645;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.00990099009901;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="130">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;إعادة الطلب لمزود الخدمات للافادة&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" tags="Connector" id="233">
+          <mxCell edge="1" parent="1" source="38" style="vsdxID=1974;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.509090909090909;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504950495049505;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="44">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="10" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="234">
+          <mxCell edge="1" parent="1" source="203" style="vsdxID=3260;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=1.00990099009901;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5161290322580645;entryDx=0;entryDy=0;entryPerimeter=0;" target="184">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-1" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="235">
+          <mxCell edge="1" parent="1" source="176" style="vsdxID=3259;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.504950495049505;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504950495049505;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="203">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="10" y="-1" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="236">
+          <mxCell edge="1" parent="1" source="192" style="vsdxID=3235;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.504950495049505;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5161290322580645;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="200">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="10" y="-1" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="237">
+          <mxCell edge="1" parent="1" source="168" style="vsdxID=3183;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.504950495049505;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.032258064516129;entryY=0.5161290322580645;entryDx=0;entryDy=0;entryPerimeter=0;" target="184">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-3" as="offset" />
+              <Array as="points">
+                <mxPoint x="583" y="676.88" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;رفع مطالبة مالية وصدور شهادة الإنجاز 1&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" tags="Connector" id="238">
+          <mxCell edge="1" parent="1" source="161" style="vsdxID=3154;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0;exitY=0.49056603773584906;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.00990099009901;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="176">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="239">
+          <mxCell edge="1" parent="1" source="153" style="vsdxID=3092;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.504950495049505;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="161">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="10" y="-1" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="240">
+          <mxCell edge="1" parent="1" source="138" style="vsdxID=3049;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.00990099009901;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="22">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="241">
+          <mxCell edge="1" parent="1" source="80" style="vsdxID=3048;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504950495049505;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="138">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="1" as="offset" />
+              <Array as="points">
+                <mxPoint x="2358.6" y="546" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="242">
+          <mxCell edge="1" parent="1" source="148" style="vsdxID=3032;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0;exitY=0.5161290322580645;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504950495049505;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="153">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint y="2" as="offset" />
+              <Array as="points">
+                <mxPoint x="399.08" y="95" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;لا&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" tags="Connector" id="243">
+          <mxCell edge="1" parent="1" source="100" style="vsdxID=2933;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0;exitY=0.5121951219512195;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.032258064516129;entryY=0.5161290322580645;entryDx=0;entryDy=0;entryPerimeter=0;" target="148">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-1" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="244">
+          <mxCell edge="1" parent="1" source="52" style="vsdxID=2808;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.504950495049505;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25742574257425743;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="30">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint y="-4" as="offset" />
+              <Array as="points">
+                <mxPoint x="1843" y="900.8" />
+                <mxPoint x="2098.85" y="900.8" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="245">
+          <mxCell edge="1" parent="1" source="44" style="vsdxID=2806;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.49504950495049505;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="52">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint y="1" as="offset" />
+              <Array as="points">
+                <mxPoint x="1585" y="95.38" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="246">
+          <mxCell edge="1" parent="1" source="22" style="vsdxID=2659;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.504950495049505;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7524752475247525;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="30">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="9" y="-1" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="247">
+          <mxCell edge="1" parent="1" source="114" style="vsdxID=2620;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.504950495049505;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.509090909090909;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="74">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-4" as="offset" />
+              <Array as="points">
+                <mxPoint x="2360" y="255" />
+                <mxPoint x="2598.4" y="255" />
+                <mxPoint x="2598.4" y="351.69" />
+                <mxPoint x="2632.4" y="351.69" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="248">
+          <mxCell edge="1" parent="1" source="122" style="vsdxID=2552;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.504950495049505;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504950495049505;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="30">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points">
+                <mxPoint x="992" y="1037.08" />
+                <mxPoint x="2124.15" y="1037.08" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="249">
+          <mxCell edge="1" parent="1" source="90" style="vsdxID=2260;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.018181818181818;entryY=0.5121951219512195;entryDx=0;entryDy=0;entryPerimeter=0;" target="100">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="250">
+          <mxCell edge="1" parent="1" source="60" style="vsdxID=2219;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.504950495049505;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504950495049505;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="90">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="10" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;أي نوع هوية ليست هوية وطنية او قامة&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" tags="Connector" id="251">
+          <mxCell edge="1" parent="1" source="74" style="vsdxID=2194;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0;exitY=0.5121951219512195;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.00990099009901;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="138">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="17" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;هوية وطنية او إقامة&lt;/font&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" tags="Connector" id="252">
+          <mxCell edge="1" parent="1" source="74" style="vsdxID=2193;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0.509090909090909;exitY=1.024390243902439;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504950495049505;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="80">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="10" as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;إحالة&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" tags="Connector" id="253">
+          <mxCell edge="1" parent="1" source="68" style="vsdxID=2105;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0;exitY=0.5121951219512195;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504950495049505;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="114">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="1" as="offset" />
+              <Array as="points">
+                <mxPoint x="2359.33" y="87" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;/div&gt;" tags="Connector" id="254">
+          <mxCell edge="1" parent="1" source="30" style="vsdxID=1925;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5121951219512195;entryDx=0;entryDy=0;entryPerimeter=0;" target="38">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:11.29px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;القبول، القبول الجزئي، الرفض&lt;br/&gt;&lt;/font&gt;&lt;/div&gt;" tags="Connector" id="255">
+          <mxCell edge="1" parent="1" source="38" style="vsdxID=2089;edgeStyle=none;startArrow=none;endArrow=block;startSize=3;endSize=3;strokeColor=#000000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=1;align=center;exitX=0;exitY=0.5121951219512195;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504950495049505;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="60">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint y="-2" as="offset" />
+              <Array as="points">
+                <mxPoint x="1210.23" y="969" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

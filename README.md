@@ -38,4 +38,6 @@ Later phases add `stories-plan.md` (development plan), API contract files and `t
 
 ## Getting oriented
 
+Using Claude Code? Run `/project-context` (optionally with a sprint number, e.g. `/project-context 1`) in a fresh session. It reads the planning files in order, reports where planning stands, and continues from there.
+
 New to the project? Start with `docs/brd/README.md`, then `docs/brd/use-case-map.md` and `docs/brd/reference-data.md`. Open questions and the assumptions we are working with are in `docs/plans/sprint-0/`.
